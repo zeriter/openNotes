@@ -8,7 +8,7 @@
     <version>0.0.1</version>
     <packaging>pom</packaging>
 
-    <name>workstation</name>
+    <name>openNotes</name>
     <description>开源笔记系统</description>
 
     <!--版本定义-->
