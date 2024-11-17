@@ -34,3 +34,7 @@ build/
 
 ### 忽略日志文件
 logs/**
+
+### 前端项目忽略
+pnpm-lock.yaml
+node_modules/**
