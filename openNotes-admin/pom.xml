@@ -10,5 +10,15 @@
     <artifactId>openNotes-admin</artifactId>
     <name>openNotes-admin</name>
     <description>web服务入口</description>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-webflux</artifactId>
+        </dependency>
 
+        <dependency>
+            <groupId>com.openNotes</groupId>
+            <artifactId>openNotes-modules</artifactId>
+        </dependency>
+    </dependencies>
 </project>

@@ -11,4 +11,15 @@
     <name>openNotes-modules</name>
     <description>modules开发模块</description>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.openNotes</groupId>
+            <artifactId>openNotes-common</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-thymeleaf</artifactId>
+        </dependency>
+    </dependencies>
 </project>
